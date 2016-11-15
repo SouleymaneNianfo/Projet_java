@@ -10,7 +10,7 @@ Heros[] heros;
 public int getPoints() { return this.getPoints(); }
 public int getPortee() { return this.getPortee(); }
 
-public	int getTour(){return 0;}
+public	int getTour(){return 0;} 
 
 public void joueTour(int tour){}
 public void combat(Soldat soldat){
